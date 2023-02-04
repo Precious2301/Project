@@ -1,0 +1,27 @@
+---
+title: "Week 2"
+format: html
+editor: visual
+---
+
+## Honours Degree in Pharmaceutical Science
+
+**Weekly Progress Report- Effect of Schizophrenia-Related SNP's on Telomere Length**
+
+**Student Name:** Precious Ekoba
+
+**Supervisor**: Eugene Hickey
+
+**Date:** 31st Jan - 1st Feb 2023
+
+**Week number:** 2
+
+**Summary of key results/activities for this week**
+
+This week involved making bar graphs of each column and carrying out a Pearson's chi-squared test to see if the results were significant (less than 0.05). The purpose of this was to analyse if certain SNP's were correlated with a diagnosis of an F code, which are mental and behavioural diseases such as schizophrenia. The blue bar which was true, represented that patients with this SNP were diagnosed with an "F" code disease, while the red bar indicated that they weren't. I made a graph for all 25 columns and none of the p-values were less than 5% which meant that the results are not significant. The closest p-value to 0.05 was 0.1056 for rs140, it's graph can be seen below.
+
+![](images/image-1448134106.png)
+
+**Plans for next week:**
+
+Next week, I plan on looking at the distribution of the dataset.
