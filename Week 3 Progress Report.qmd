@@ -29,12 +29,3 @@ A density plot was also made for the bigger data set containing the top 10 diagn
 **Plans for next week:**
 
 Next week, I plan to further analyse the relationship between telomere length and specific diseases.
-
-
-
-
-
-
-
-
-
