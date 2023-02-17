@@ -1,0 +1,23 @@
+---
+title: "Week_4"
+format: html
+editor: visual
+---
+
+**Honours Degree in Pharmaceutical Science**
+
+**Weekly Progress Report- Effect of Schizophrenia-Related SNP's on Telomere Length** **Student Name:** Precious Ekoba **Supervisor**: Eugene Hickey
+
+**Date:** 14th - 15th Feb 2023
+
+**Week number:** 4
+
+**Summary of key results/activities for this week:**
+
+This week I used the ggridges package to make a ridge plot of most diagnosed F code diseases. An F-test was then carried out to measure the difference in the peaks and to see if they were significant. The following peaks were significant: F2 & F3, F1&F2, F0&F1, F1&F5, F1&F4, F1&F3. The ridge plot can be seen below.
+
+![](images/image-1483562874.png)
+
+**Plans for next week:**
+
+Next week I will start building models.
