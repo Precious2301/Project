@@ -1,0 +1,29 @@
+---
+title: "Week_5"
+format: html
+editor: visual
+---
+
+**Honours Degree in Pharmaceutical Science**
+
+**Weekly Progress Report- Effect of Schizophrenia-Related SNP\'s on Telomere Length** 
+
+**Student Name:** Precious Ekoba 
+
+**Supervisor**: Eugene Hickey
+
+**Date:** 21st - 22nd Feb 2023
+
+**Week number:** 5
+
+**Summary of key results/activities for this week:**
+
+This week I started building models using the caret package. The clean dataset was used to build an lda model and a random forest model. The lda model had 0.79% accuracy while the random forest (ranger) model had 81% accuracy.
+
+**Plans for next week:**
+
+Next week I will continue to build models
+
+
+
+
