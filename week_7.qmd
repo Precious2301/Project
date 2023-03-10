@@ -1,0 +1,29 @@
+---
+title: "Week_7"
+format: html
+editor: visual
+---
+
+**Honours Degree in Pharmaceutical Science**
+
+**Weekly Progress Report- Effect of Schizophrenia-Related SNP's on Telomere Length** 
+
+**Student Name:** Precious Ekoba 
+
+**Supervisor**: Eugene Hickey
+
+**Date:** 7th-8th March 2023
+
+**Week number:** 7
+
+**Summary of key results/activities for this week:**
+
+This week I continued working on my final report as well as looking at F1 scores of models to measure how accurate they are.
+
+**Plans for next week:**
+
+Continue working on the final report.
+
+
+
+
